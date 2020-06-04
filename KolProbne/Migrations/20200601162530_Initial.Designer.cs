@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using KolProbne.Models;
 
-namespace cw13.Migrations
+namespace KolProbne.Migrations
 {
     [DbContext(typeof(CukierniaDbContext))]
     [Migration("20200601162530_Initial")]
